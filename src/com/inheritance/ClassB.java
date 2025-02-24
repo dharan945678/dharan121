@@ -14,6 +14,8 @@ public class ClassB extends ClassA {
 		child.EmpName();
 		
 		child.EmpId();
+		
+		child.EmpSalary();
 	}
 
 }

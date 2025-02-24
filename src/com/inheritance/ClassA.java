@@ -7,5 +7,11 @@ public class ClassA {
 	public void EmpId() {
 		System.out.println("EmpId is 8435");
 	}
+	
+	public void EmpSalary() {
+		System.out.println("Emp salary is 16k");
+		
+	}
+	
 
 }
